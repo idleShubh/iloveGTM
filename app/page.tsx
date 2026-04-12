@@ -111,7 +111,7 @@ export default function Home() {
       <footer className="footer">
         <span>© {new Date().getFullYear()} iloveGTM</span>
         <a href="https://x.com/idleshubh" target="_blank" rel="noreferrer">
-          built by @idleshubh ↗
+          built by @idleShubh ↗
         </a>
       </footer>
     </div>
