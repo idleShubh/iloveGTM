@@ -39,16 +39,16 @@ export default function Home() {
 
       <main className="main">
         <section className="hero">
-          <span className="eyebrow">
+          <span className="eyebrow reveal reveal-1">
             <span className="dot" />
             Waitlist open
           </span>
 
-          <h1>
+          <h1 className="reveal reveal-2">
             Go-to-market tools & ideas that <em>actually</em> drive growth.
           </h1>
 
-          <p className="sub">
+          <p className="sub reveal reveal-3">
             iloveGTM is where builders, founders, and GTM leaders find, test, and
             share the plays that really move the needle.
           </p>
@@ -71,7 +71,7 @@ export default function Home() {
               </a>
             </div>
           ) : (
-            <form onSubmit={onSubmit}>
+            <form onSubmit={onSubmit} className="reveal reveal-4">
               <div className="row">
                 <input
                   type="text"
