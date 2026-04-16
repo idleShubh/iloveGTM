@@ -63,7 +63,7 @@ export default function Home() {
               </p>
               <a
                 className="cta"
-                href="https://chat.whatsapp.com/FNjpthHArfDAnp04dR4gPD?mode=gi_t"
+                href="https://chat.whatsapp.com/Er2h9zMKucxGEKnHhTB7QS?mode=gi_t"
                 target="_blank"
                 rel="noreferrer"
               >
